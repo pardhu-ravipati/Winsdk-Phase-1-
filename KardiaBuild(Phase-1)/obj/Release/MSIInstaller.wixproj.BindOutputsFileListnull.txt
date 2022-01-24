@@ -1,0 +1,2 @@
+C:\AliveCor\WinSdk\Kardia-Phase1\KardiaBuild(Phase-1)\bin\Release\AliveCorKitLite.msi
+C:\AliveCor\WinSdk\Kardia-Phase1\KardiaBuild(Phase-1)\bin\Release\AliveCorKitLite.wixpdb
